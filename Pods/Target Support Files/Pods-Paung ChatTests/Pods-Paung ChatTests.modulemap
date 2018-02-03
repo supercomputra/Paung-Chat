@@ -1,0 +1,6 @@
+framework module Pods_Paung_ChatTests {
+  umbrella header "Pods-Paung ChatTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
